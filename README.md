@@ -5,11 +5,17 @@ Ahjeong Yeom, Kenji Laurens, Steve Shi And Vanessa Li
 
 ## Project Summary
 Our goal is to bring more meaningful and multi-dimensional data to users on cosmetic brands and products so that both brands and end-consumers can make informed decisions  
+
 **Data Collection:** utilize different tools such as Tweepy API, XHR requests to extract product, twitter, brands, reviews and ingredient data from various sources
+
 **Data Cleaning:**  utilize Python and OpenRefine to clean data and make them ready to import into MySQL
+
 **Data Storage:** database is stored in cloud (GCP) to allow multiple remote collaborators and MySQL Workbench was chosen as GUI tool
+
 **Data Model:** EER and dimensional model created 
+
 **Data Analysis:** utilize SQL, Pandas, NLP libraries to perform analysis
+
 **Data Visualization On 5 Business Use Cases：**
 - Brand Perception Based On Sentiment Of Tweets
 - Key Performance
