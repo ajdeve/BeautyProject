@@ -26,38 +26,38 @@ Our goal is to bring more meaningful and multi-dimensional data to users on cosm
 
 ## Project Folder Structure
 ### BI Folder
-Case1_Brand_Perception_Tweet.ipynb
-Case2_Product_Performance_Tableau.twb
-Case3_Tkinter_App.ipynb
-Case4_Competitor_Lookup.twbx
-Case5_Product_Review_Plotly.ipynb
+- Case1_Brand_Perception_Tweet.ipynb
+- Case2_Product_Performance_Tableau.twb
+- Case3_Tkinter_App.ipynb
+- Case4_Competitor_Lookup.twbx
+- Case5_Product_Review_Plotly.ipynb
 
 ### Docs Folder
-Team5_Analysis_On_Beauty_Industry.pptx
-Team5_Analysis_On_Beauty_Industry.pdf
+- Team5_Analysis_On_Beauty_Industry.pptx
+- Team5_Analysis_On_Beauty_Industry.pdf
 
 ### Scripts Folder
 #### Data Cleanup Transformation
-General_Dataset_Cleanup.ipynb
-Ingredients_Dataset_Cleanup.ipynb
-MongoDB_Import.ipynb
-Tweet_Cleanup_Sentimental_Analysis.ipynb
-Tweet_Location_Cleanup.ipynb
+- General_Dataset_Cleanup.ipynb
+- Ingredients_Dataset_Cleanup.ipynb
+- MongoDB_Import.ipynb
+- Tweet_Cleanup_Sentimental_Analysis.ipynb
+- Tweet_Location_Cleanup.ipynb
 
 ##### Data Collection
-Sephora_Product_Review.ipynb
-Selenium_Scraper.ipynb
-Tweepy_Scraper.ipynb
+- Sephora_Product_Review.ipynb
+- Selenium_Scraper.ipynb
+- Tweepy_Scraper.ipynb
 
 ##### MongoDB
-reviews_mongo.csv
+- reviews_mongo.csv
 
 ##### Neo4j
-1-P139005.rtf
-2_P455894.rtf
-3_P447163.rtf
-4_P441803.rtf
+- 1-P139005.rtf
+- 2_P455894.rtf
+- 3_P447163.rtf
+- 4_P441803.rtf
 
 ##### SQL
-EER_diagram.png
-Dimensional _Diagram.png
+- EER_diagram.png
+- Dimensional _Diagram.png
