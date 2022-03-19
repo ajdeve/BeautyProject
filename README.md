@@ -23,6 +23,12 @@ Our goal is to bring more meaningful and multi-dimensional data to users on cosm
 - Competitor Lookup
 - Customer Demographic and Attribute Distribution
 
+## ETL Process
+![image](ETLprocess.png)
+
+## Implementation Tools
+![image](Tools.png)
+
 
 ## Project Folder Structure
 ### BI Folder
