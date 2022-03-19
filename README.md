@@ -50,11 +50,6 @@ Our goal is to bring more meaningful and multi-dimensional data to users on cosm
 - Tweet_Cleanup_Sentimental_Analysis.ipynb
 - Tweet_Location_Cleanup.ipynb
 
-##### Data Collection
-- Sephora_Product_Review.ipynb
-- Selenium_Scraper.ipynb
-- Tweepy_Scraper.ipynb
-
 ##### MongoDB
 - reviews_mongo.csv
 
